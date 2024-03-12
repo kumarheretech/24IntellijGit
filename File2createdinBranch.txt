@@ -1,2 +1,3 @@
 First commit of the First file created in branch 1
 1 Update
+2 Update in branch2
